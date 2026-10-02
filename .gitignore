@@ -1,0 +1,14 @@
+# --- demo (Java / Maven / IntelliJ) ---
+demo/target/
+demo/.idea/
+demo/*.iml
+
+# --- mi-primera-app y navegacion (Expo / React Native) ---
+mi-primera-app/node_modules/
+mi-primera-app/.expo/
+navegacion/node_modules/
+navegacion/.expo/
+
+# --- General ---
+.DS_Store
+*.log
